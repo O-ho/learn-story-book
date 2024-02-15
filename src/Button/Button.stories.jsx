@@ -9,7 +9,7 @@ const CustomButton = styled.button`
   border: 1px solid green;
   background: lightgreen;
   color: rebeccapurple;
-  padding: 1em;
+  padding: 1.2em;
   font-size: 1.2em;
 `;
 
